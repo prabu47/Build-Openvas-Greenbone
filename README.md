@@ -7,7 +7,7 @@ A set of scripts designed to (quickly) build OpenVAS on Ubuntu 24.04.
 ```
 sudo su
 cd /tmp
-git clone https://github.com/iachievedit/build_openvas
+git clone https://github.com/prabu47/build_Openvas-Greenbone
 cd build_openvas
 ./install.sh
 ```
